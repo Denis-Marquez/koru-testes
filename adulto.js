@@ -1,4 +1,4 @@
-function eAdulto(idade){
+function Adulto(idade){
     if (idade >=18) {
         return console.log("é adulto!")
     }
@@ -7,4 +7,4 @@ function eAdulto(idade){
         console.log("Não é adulto");
     }
 }
-eAdulto(10);
+Adulto(10);
